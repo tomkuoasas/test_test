@@ -12,7 +12,7 @@ while True:asdfasdfsf
         ' l Left key\n' +
         ' r Right key\n' +asdfsf
         ' = Delete key\n' +f
-        ' 7 longpress ＊\n' +
+        ' 7 longpress ＊\n' +bkj
         ' 8 longpress ＃\n' +
         ' q press ＊\n' +
         ' w press ＃\n' +
