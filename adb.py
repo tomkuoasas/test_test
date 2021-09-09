@@ -1,7 +1,7 @@
 import subprocess
 #a
 while True:asdfasdfsf
-    com = input(
+    com = input(asdf
         ' 1 open menu\n 2 open testcolumns\n 3 close menu\n' +
         ' 4 ime list\n' +
         ' 5 set dvt912key\n' +
