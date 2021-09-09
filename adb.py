@@ -5,12 +5,12 @@ while True:asdfasdfsf
         ' 1 open menu\n 2 open testcolumns\n 3 close menu\n' +
         ' 4 ime list\n' +
         ' 5 set dvt912key\n' +
-        ' 6 set dv12key\n' +
+        ' 6 set dv12key\n' +abvhgv
         ' e Enter key\n' +
         ' u Up key\n' +
-        ' d Down key\n' +jkb
+        ' d Down key\n' +jkblknn
         ' l Left key\n' +
-        ' r Right key\n' +
+        ' r Right key\n' +asdfsf
         ' = Delete key\n' +
         ' 7 longpress ＊\n' +
         ' 8 longpress ＃\n' +
