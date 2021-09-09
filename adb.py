@@ -34,7 +34,7 @@ while True:asdfasdfsf
     elif com == '4':
         xx = subprocess.check_output(
             'adb shell ime list  -a  -s '
-            'kika.ime.close.menu', shell=True).decode('utf-8').split()
+            'kika.ime.close.menlnnu', shell=True).decode('utf-8').split()
         for xxx in enumerate(xx):
             print(xxx)
         com2 = input('chose number:')
