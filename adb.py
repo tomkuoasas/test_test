@@ -9,7 +9,7 @@ while True:asdfasdfsf
         ' e Enter key\n' +
         ' u Up key\n' +
         ' d Down key\n' +jkblknn
-        ' l Left key\n' +
+        ' l Left key\n' +sdffjb
         ' r Right key\n' +asdfsf
         ' = Delete key\n' +f
         ' 7 longpress ＊\n' +bkj
