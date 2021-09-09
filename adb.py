@@ -10,7 +10,7 @@ while True:asdfasdfsf
         ' u Up key\n' +
         ' d Down key\n' +jkb
         ' l Left key\n' +
-        ' r Right key\n' +
+        ' r Right key\n' +asdfsf
         ' = Delete key\n' +
         ' 7 longpress ＊\n' +
         ' 8 longpress ＃\n' +
