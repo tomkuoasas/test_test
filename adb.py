@@ -1,6 +1,6 @@
 import subprocess
-
-while True:
+#a
+while True:asdf
     com = input(
         ' 1 open menu\n 2 open testcolumns\n 3 close menu\n' +
         ' 4 ime list\n' +
