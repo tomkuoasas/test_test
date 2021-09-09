@@ -1,4 +1,4 @@
-import subprocess
+jkkjkjbimport subprocess
 #a
 while True:asdfasdfsf
     com = input(asdf
