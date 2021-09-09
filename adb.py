@@ -11,7 +11,7 @@ while True:asdfasdfsf
         ' d Down key\n' +jkblknn
         ' l Left key\n' +
         ' r Right key\n' +asdfsf
-        ' = Delete key\n' +
+        ' = Delete key\n' +f
         ' 7 longpress ＊\n' +
         ' 8 longpress ＃\n' +
         ' q press ＊\n' +
