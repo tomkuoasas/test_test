@@ -8,7 +8,7 @@ while True:asdfasdfsf
         ' 6 set dv12key\n' +
         ' e Enter key\n' +
         ' u Up key\n' +
-        ' d Down key\n' +
+        ' d Down key\n' +jkb
         ' l Left key\n' +
         ' r Right key\n' +
         ' = Delete key\n' +
