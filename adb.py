@@ -17,7 +17,7 @@ while True:asdfasdfsf
         ' q press ＊\n' +bjkjb
         ' w press ＃\n' +
         ' h hide desktop\n' +
-        ' s show desktop\n' +
+        ' s show desktop\n' +jhgb
         ' p screencap\n' +
         ':'
     )
