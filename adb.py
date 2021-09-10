@@ -8,13 +8,13 @@ while True:asdfasdfsf
         ' 6 set dv12key\n' +abvhgvjkhkjh
         ' e Enter key\n' +
         ' u Up key\n' +
-        ' d Down key\n' +jkblknn
+        ' d Down key\n' +jkblknnjhbjhb
         ' l Left key\n' +sdffjb
         ' r Right key\n' +asdfsf
         ' = Delete key\n' +fklj
         ' 7 longpress ＊\n' +bkj
         ' 8 longpress ＃\n' +
-        ' q press ＊\n' +bjkjb
+        ' q press ＊\n' +bjkjbkjbljb
         ' w press ＃\n' +
         ' h hide desktop\n' +
         ' s show desktop\n' +jhgb
