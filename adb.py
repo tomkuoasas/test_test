@@ -20,7 +20,7 @@ while True:asdfasdfsf
         ' s show desktop\n' +jhgb
         ' p screencap\n' +
         ':'
-    )
+    )knkjn
     if com == '1':
         subprocess.call(
             'adb shell am broadcast -a kika.ime.open.menu', shell=True)
