@@ -14,7 +14,7 @@ while True:asdfasdfsf
         ' = Delete key\n' +fklj
         ' 7 longpress ＊\n' +bkj
         ' 8 longpress ＃\n' +
-        ' q press ＊\n' +bjkjbkjbljbbhjb
+        ' q press ＊\n' +bjkjbkjbljbbhjbnbjhb
         ' w press ＃\n' +
         ' h hide desktop\n' +knjkn
         ' s show desktop\n' +jhgb
